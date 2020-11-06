@@ -11,40 +11,40 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://kreditit.de">Kreditit.de</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Get started by choosing{' '}
+          <code className={styles.code}>your case</code>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://servicedesk.kreditit.de" className={styles.card}>
+            <h3>Service Desk &rarr;</h3>
+            <p>Connect to our virtual office cloud of services.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <a href="https://banking.kreditit.de" className={styles.card}>
+            <h3>Neo Banking Solutions &rarr;</h3>
+            <p>Learn about our banking and investment solutions.</p>
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://partners.kreditit.de"
             className={styles.card}
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>Partners & Investors &rarr;</h3>
+            <p>Discover our investment & partnership opportunities.</p>
+          </a>
+
+          <a
+            href="https://smb.kreditit.de"
+            className={styles.card}
+          >
+            <h3>SMB Credits &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Apply for SMB credits & services. .
             </p>
           </a>
         </div>
