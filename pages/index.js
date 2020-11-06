@@ -15,19 +15,19 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by choosing{' '}
-          <code className={styles.code}>your case</code>
+          Where banking meets{' '}
+          <code className={styles.code}>technology</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://servicedesk.kreditit.de" className={styles.card}>
             <h3>Service Desk &rarr;</h3>
-            <p>Connect to our virtual office cloud of services.</p>
+            <p>Connect to our cloud of virtual office services.</p>
           </a>
 
           <a href="https://banking.kreditit.de" className={styles.card}>
-            <h3>Neo Banking Solutions &rarr;</h3>
-            <p>Learn about our banking and investment solutions.</p>
+            <h3>Banking Solutions &rarr;</h3>
+            <p>Learn about our banking & investment solutions.</p>
           </a>
 
           <a
@@ -44,7 +44,7 @@ export default function Home() {
           >
             <h3>SMB Credits &rarr;</h3>
             <p>
-              Apply for SMB credits & services. .
+              Apply for our special loans for SMBs & Startups.
             </p>
           </a>
         </div>
