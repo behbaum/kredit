@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://kreditit.de">KRΞDITit.de</a>
+          Welcome to <a href="https://kreditit.de">KRΞDITit</a>
         </h1>
 
         <p className={styles.description}>
