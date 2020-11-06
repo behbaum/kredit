@@ -20,15 +20,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://servicedesk.kreditit.de" className={styles.card}>
-            <h3>Service Desk &rarr;</h3>
-            <p>Connect to our cloud of virtual office services.</p>
-          </a>
-
-          <a href="https://banking.kreditit.de" className={styles.card}>
-            <h3>Banking Solutions &rarr;</h3>
-            <p>Learn about our banking & investment solutions.</p>
-          </a>
+      
 
           <a
             href="https://partners.kreditit.de"
@@ -46,6 +38,15 @@ export default function Home() {
             <p>
               Apply for our special loans for SMBs & Startups.
             </p>
+          </a>
+        <a href="https://servicedesk.kreditit.de" className={styles.card}>
+            <h3>Service Desk &rarr;</h3>
+            <p>Connect to our cloud of virtual office services.</p>
+          </a>
+
+          <a href="https://banking.kreditit.de" className={styles.card}>
+            <h3>Banking Solutions &rarr;</h3>
+            <p>Learn about our banking & investment solutions.</p>
           </a>
         </div>
       </main>
