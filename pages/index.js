@@ -39,12 +39,12 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Partners & Investors &rarr;</h3>
-            <p>Discover investment & partnership opportunities.</p>
+            <p>Discover attractive investment & partnership opportunities.</p>
           </a>
        
         <a href="https://accounts.zoho.com/signin?servicename=VirtualOffice" className={styles.card}>
             <h3>Virtual Office &rarr;</h3>
-            <p>Login to our virtual office here.</p>
+            <p>For partners & employees. Login to our virtual office here.</p>
           </a>
           
         </div>
