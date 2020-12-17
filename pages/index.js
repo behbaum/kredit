@@ -22,8 +22,8 @@ export default function Home() {
         <div className={styles.grid}>
    
           <a href="https://kredibit.de/" className={styles.card}>
-            <h3>LaunchPad & Credits &rarr;</h3>
-            <p>Apply for special credits & LaunchPad plans for SMBs & Startups.</p>
+            <h3>Launchpad & Credits &rarr;</h3>
+            <p>Apply for our launchpad plans & special credits for SMBs & Startups.</p>
           </a>
           <a
             href="https://kredebit.de/launch"
