@@ -21,17 +21,17 @@ export default function Home() {
 
         <div className={styles.grid}>
    
-          <a href="https://kredibit.de/launchpad/" className={styles.card}>
-            <h3>LaunchPad &rarr;</h3>
-            <p>Expand your branches in our 30+ global locations.</p>
+          <a href="https://kredibit.de/" className={styles.card}>
+            <h3>LaunchPad & Credits &rarr;</h3>
+            <p>Apply for special credits & LaunchPad plans for SMBs & Startups.</p>
           </a>
           <a
-            href="https://kredibit.de/"
+            href="https://kredebit.de/launch"
             className={styles.card}
           >
-            <h3>SMB Credits &rarr;</h3>
+            <h3>App Launch &rarr;</h3>
             <p>
-              Apply for our special credits for SMBs & Startups.
+              Join our list & get notified when our App is available.
             </p>
           </a>
           <a
